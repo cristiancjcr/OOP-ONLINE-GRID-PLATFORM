@@ -46,7 +46,7 @@ Dacă dorim să adăugăm întrebări de diferite tipuri (de exemplu, întrebăr
 
 Dacă vrem să extindem funcționalitățile pentru utilizatori (de exemplu, salvarea scorurilor pe termen lung), putem adăuga o bază de date simplă sau fișiere pentru persistența datelor.
 
-## Posibile idei de îmbunătățire
+## Idei principale pentru dezvoltarea finală a programului
 ### 1. Adăugarea de nivele de dificultate pentru întrebări
 Întrebările ar putea fi împărțite în categorii de dificultate ***(ușor, mediu, greu)***, iar utilizatorul poate selecta nivelul dorit la începutul testului.
 > **Beneficii** : Testul devine mai flexibil, permițând utilizatorului să aleagă întrebările în funcție de nivelul său de cunoștințe.
@@ -66,3 +66,19 @@ Scorurile și evaluările fiecărui utilizator pot fi salvate într-un fișier p
 ### 5. Crearea unui meniu interactiv în command prompt
 În loc să rulezi direct testul, poți adăuga un meniu care să permită utilizatorului să aleagă diferite opțiuni: începerea unui test, vizualizarea scorurilor, ieșirea din program etc.
 > **Beneficii** : Oferă o interfață mai prietenoasă și clară pentru utilizatori.
+
+### 6. Crearea de domenii
+Domeniile permit organizarea întrebărilor în funcție de tematică, utilizatorul alegând unul la începutul testului.
+> **Beneficii** : Oferă utilizatorilor control asupra testului, permițându-le să aleagă doar întrebări dintr-un domeniu de interes.
+
+### 7. Selectarea unui număr de întrebări
+Platforma va selecta automat numărul ales de întrebări din domeniul specificat.
+> **Beneficii** : Flexibilitatea pentru utilizatori de a alege între teste scurte sau lungi, adaptându-se timpului și interesului lor.
+
+### 8. Întrebări cu răspunsuri multiple
+Utilizatorul poate selecta mai multe opțiuni pentru a răspunde, iar verificarea corectitudinii va ține cont de toate răspunsurile corecte.
+> **Beneficii** : Îmbunătățește testele, oferindu-le un nivel mai complex și mai realist de evaluare.
+
+### 9. Verificarea răspunsurilor dintr-un test finalizat (din fișier)
+Platforma salvează răspunsurile și scorul într-un fișier; ulterior, utilizatorul poate vedea întrebările și răspunsurile corecte, alături de propriile răspunsuri.
+> **Beneficii** : Utilizatorii pot învăța din greșelile făcute, având acces la un istoric detaliat al testului și al corectitudinii răspunsurilor.
