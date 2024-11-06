@@ -1,6 +1,6 @@
 # OOP-Online-Grid-Platform
 
-### Cerința problemei
+### Cerința problemei :
 > **Platformă de grile online** - gestionarea întrebărilor și evaluarea răspunsurilor (problema numărul 23) .
 
 ## Descrierea metodei și modului de rezolvare a problemei
@@ -10,7 +10,7 @@ Utilizatorii trebuie să poată răspunde la întrebări, iar platforma trebuie 
 
 De asemenea, o să folosim un model de programare orientată pe obiecte, pentru a face codul mai modular, reutilizabil și ușor de întreținut.
 
-### 2. Concepte OOP aplicate
+### 2. Concepte OOP aplicate :
 **Încapsularea** : Vom folosi clase pentru a încapsula întrebările, testele și, opțional, utilizatorii. Fiecare clasă va avea variabile private, iar accesul la ele se va face prin metode publice (getters, setters și alte metode).
 
 **Abstracția** : Prin intermediul claselor, abstractizăm complexitatea unei întrebări sau a unui test, ascunzând detaliile de implementare în spatele unor metode clare și simple de utilizat. Astfel, utilizatorul final al codului (fie un alt dezvoltator, fie chiar utilizatorul uman) nu trebuie să cunoască cum funcționează exact verificarea răspunsurilor.
@@ -28,7 +28,7 @@ Platforma noastră va fi împărțită în module logice, fiecare cu responsabil
 
 **Modulul de utilizator (opțional)**  : Gestionarea detaliilor utilizatorilor și salvarea scorurilor pentru a oferi un feedback personalizat.
 
-### 4. Fluxul de lucru al programului
+### 4. Fluxul de lucru al programului :
 Programul va urma un flux clar și ușor de înțeles :
 
 **Pasul 1** : Inițializarea unui set de întrebări (în cod sau citite dintr-un fișier)
@@ -46,7 +46,8 @@ Dacă dorim să adăugăm întrebări de diferite tipuri (de exemplu, întrebăr
 
 Dacă vrem să extindem funcționalitățile pentru utilizatori (de exemplu, salvarea scorurilor pe termen lung), putem adăuga o bază de date simplă sau fișiere pentru persistența datelor.
 
-## Idei principale pentru dezvoltarea finală a programului
+## Idei principale pentru dezvoltarea finală a programului :
+
 ### 1. Adăugarea de nivele de dificultate pentru întrebări
 Întrebările ar putea fi împărțite în categorii de dificultate ***(ușor, mediu, greu)***, iar utilizatorul poate selecta nivelul dorit la începutul testului.
 > **Beneficii** : Testul devine mai flexibil, permițând utilizatorului să aleagă întrebările în funcție de nivelul său de cunoștințe.
@@ -82,3 +83,9 @@ Utilizatorul poate selecta mai multe opțiuni pentru a răspunde, iar verificare
 ### 9. Verificarea răspunsurilor dintr-un test finalizat (din fișier)
 Platforma salvează răspunsurile și scorul într-un fișier; ulterior, utilizatorul poate vedea întrebările și răspunsurile corecte, alături de propriile răspunsuri.
 > **Beneficii** : Utilizatorii pot învăța din greșelile făcute, având acces la un istoric detaliat al testului și al corectitudinii răspunsurilor.
+
+## Contribuții
+Proiect realizat de **Cristian Florin Cojocaru** (student **CR.2** - **UCV / FACE**). Contribuțiile sunt binevenite ! Dacă aveți sugestii de îmbunătățire a codului sau a documentației, vă rugăm să trimiteți un pull request.
+
+## Licență
+Acest proiect este licențiat sub [MIT License](LICENSE).
