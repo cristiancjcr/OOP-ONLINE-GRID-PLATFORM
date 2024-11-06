@@ -85,7 +85,7 @@ Platforma salvează răspunsurile și scorul într-un fișier; ulterior, utiliza
 > **Beneficii** : Utilizatorii pot învăța din greșelile făcute, având acces la un istoric detaliat al testului și al corectitudinii răspunsurilor.
 
 ## Contribuții
-Proiect realizat de **Cristian Florin Cojocaru** (student **CR.2** - **UCV / FACE**). Contribuțiile sunt binevenite ! Dacă aveți sugestii de îmbunătățire a codului sau a documentației, vă rugăm să trimiteți un pull request.
+Proiect realizat de **Cristian Florin Cojocaru** (student **CR.2** - **UCV / FACE**). Contribuțiile sunt binevenite ! Dacă aveți sugestii de îmbunătățire a codului sau a documentației, vă rog să trimiteți un pull request.
 
 ## Licență
 Acest proiect este licențiat sub [MIT License](LICENSE).
