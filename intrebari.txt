@@ -1,0 +1,48 @@
+﻿Ce este 2 + 2?
+4
+3
+5
+6
+1
+Ce culoare are cerul?
+Albastru
+Verde
+Rosu
+Galben
+1
+Care este capitala Romaniei?
+Bucuresti
+Cluj-Napoca
+Timisoara
+Iasi
+1
+Cine a scris "Ion"?
+Mihail Sadoveanu
+Marin Preda
+Liviu Rebreanu
+Ion Luca Caragiale
+3
+Care este cel mai mare animal terestru?
+Elefant
+Girafa
+Hipopotam
+Leu
+1
+Care este cel mai înalt munte din lume?
+Kilimanjaro
+Mount Everest
+K2
+Mont Blanc
+2
+Cine a inventat becul electric?
+Thomas Edison
+Nikola Tesla
+Alexander Graham Bell
+Albert Einstein
+1
+Ce planetă este cunoscută ca "Planeta Roșie"?
+Venus
+Marte
+Jupiter
+Saturn
+2
