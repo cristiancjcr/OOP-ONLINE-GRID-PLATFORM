@@ -52,7 +52,7 @@ Dacă vrem să extindem funcționalitățile pentru utilizatori (de exemplu, sal
 Întrebările ar putea fi împărțite în categorii de dificultate ***(ușor, mediu, greu)***, iar utilizatorul poate selecta nivelul dorit la începutul testului.
 > **Beneficii** : Testul devine mai flexibil, permițând utilizatorului să aleagă întrebările în funcție de nivelul său de cunoștințe.
 
-### 2. Cronometrarea răspunsurilor
+### 2. Cronometrarea răspunsurilor - NEIMPLEMENTAT / ÎNCĂ SE IMPLEMEANTEAZĂ
 Adăugarea unui cronometru care să limiteze timpul pentru a răspunde la întrebări. Dacă timpul expiră, utilizatorul nu va mai putea răspunde la întrebare și se va trece la următoarea.
 > **Beneficii** : Adaugă un element de presiune și testează rapiditatea utilizatorului, crescând nivelul de dificultate.
 
@@ -76,11 +76,11 @@ Domeniile permit organizarea întrebărilor în funcție de tematică, utilizato
 Platforma va selecta automat numărul ales de întrebări din domeniul specificat.
 > **Beneficii** : Flexibilitatea pentru utilizatori de a alege între teste scurte sau lungi, adaptându-se timpului și interesului lor.
 
-### 8. Întrebări cu răspunsuri multiple
+### 8. Întrebări cu răspunsuri multiple - NEIMPLEMENTAT / ÎNCĂ SE IMPLEMEANTEAZĂ
 Utilizatorul poate selecta mai multe opțiuni pentru a răspunde, iar verificarea corectitudinii va ține cont de toate răspunsurile corecte.
 > **Beneficii** : Îmbunătățește testele, oferindu-le un nivel mai complex și mai realist de evaluare.
 
-### 9. Verificarea răspunsurilor dintr-un test finalizat (din fișier)
+### 9. Verificarea răspunsurilor dintr-un test finalizat (din fișier) - NEIMPLEMENTAT / ÎNCĂ SE IMPLEMEANTEAZĂ
 Platforma salvează răspunsurile și scorul într-un fișier; ulterior, utilizatorul poate vedea întrebările și răspunsurile corecte, alături de propriile răspunsuri.
 > **Beneficii** : Utilizatorii pot învăța din greșelile făcute, având acces la un istoric detaliat al testului și al corectitudinii răspunsurilor.
 
