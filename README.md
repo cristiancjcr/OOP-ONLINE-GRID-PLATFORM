@@ -1,9 +1,9 @@
-# OOP-Online-Grid-Platform
+# OOP - ONLINE GRID PLATFORM
 
-### Cerința problemei :
+### CERINȚA PROBLEMEI :
 > **Platformă de grile online** - gestionarea întrebărilor și evaluarea răspunsurilor (problema numărul 23) .
 
-## Descrierea metodei și modului de rezolvare a problemei
+## DESCRIEREA METODEI & MODULUI DE REZOLVARE A PROBLEMEI
 ### 1. Analiza problemei
 Platforma noastră de grile trebuie să permită crearea și gestionarea unui set de întrebări de tip grilă, unde fiecare întrebare are mai multe variante de răspuns.
 Utilizatorii trebuie să poată răspunde la întrebări, iar platforma trebuie să evalueze răspunsurile și să calculeze un scor final.
@@ -46,7 +46,7 @@ Dacă dorim să adăugăm întrebări de diferite tipuri (de exemplu, întrebăr
 
 Dacă vrem să extindem funcționalitățile pentru utilizatori (de exemplu, salvarea scorurilor pe termen lung), putem adăuga o bază de date simplă sau fișiere pentru persistența datelor.
 
-## Idei principale pentru dezvoltarea finală a programului :
+## IDEI PRINCIPALE PENTRU DEZVOLTAREA FINALĂ A PROGRAMULUI
 
 ### 1. Adăugarea de nivele de dificultate pentru întrebări
 Întrebările ar putea fi împărțite în categorii de dificultate ***(ușor, mediu, greu)***, iar utilizatorul poate selecta nivelul dorit la începutul testului.
@@ -84,8 +84,8 @@ Utilizatorul poate selecta mai multe opțiuni pentru a răspunde, iar verificare
 Platforma salvează răspunsurile și scorul într-un fișier; ulterior, utilizatorul poate vedea întrebările și răspunsurile corecte, alături de propriile răspunsuri.
 > **Beneficii** : Utilizatorii pot învăța din greșelile făcute, având acces la un istoric detaliat al testului și al corectitudinii răspunsurilor.
 
-## Contribuții
+## CONTRIBUȚII
 Proiect realizat de **Cristian Florin Cojocaru** (student **CR.2** - **Universitatea din Craiova / Facultatea de Automatică, Calculatoare şi Electronică**). Contribuțiile sunt binevenite ! Dacă aveți sugestii de îmbunătățire a codului sau a documentației, vă rog să trimiteți un pull request.
 
-## Licență
+## LICENȚĂ
 Acest proiect este licențiat sub [MIT License](LICENSE).
