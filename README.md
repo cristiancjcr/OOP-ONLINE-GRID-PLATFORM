@@ -42,7 +42,7 @@ Programul va urma un flux clar și ușor de înțeles :
 ### 5. Ușurința extinderii
 Un avantaj al programării orientate pe obiecte este ușurința cu care putem extinde programul : 
 
-Dacă dorim să adăugăm întrebări de diferite tipuri (de exemplu, întrebări cu răspunsuri multiple sau întrebări deschise), putem crea noi clase care extind clasa de bază Intrebare.
+Dacă dorim să adăugăm întrebări de diferite tipuri (de exemplu, întrebări cu răspunsuri multiple sau întrebări deschise), putem crea noi clase care extind clasa de bază 'Intrebare'.
 
 Dacă vrem să extindem funcționalitățile pentru utilizatori (de exemplu, salvarea scorurilor pe termen lung), putem adăuga o bază de date simplă sau fișiere pentru persistența datelor.
 
